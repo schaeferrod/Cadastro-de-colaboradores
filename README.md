@@ -1,5 +1,9 @@
 # Cadastro-de-colaboradores
-Desenvolver uma aplicação web que possibilite o cadastro de colaboradores com as seguintes informações: cpf, nome, setor. Além do cadastro de novos colaboradores, a aplicação deve atender aos requisitos: 
+Desenvolver uma aplicação web que possibilite o cadastro de colaboradores com as seguintes informações: 
+-cpf;
+-nome;
+-setor. 
+Além do cadastro de novos colaboradores, a aplicação deve atender aos requisitos: 
 1. Listar os colaboradores por setor; 
 2. Editar as informações cadastradas sobre colaboradores; 
 3. Deletar colaboradores; 
